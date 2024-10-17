@@ -1,3 +1,11 @@
-[submodule "projects/Kanban"]
-	path = projects/Kanban
+[submodule "projects/front"]
+	path = projects/front
 	url = https://github.com/DracJulien/kanban-board
+
+[submodule "projects/Kanban_SC"]
+	path = projects/kanban_SC
+	url = https://github.com/DracJulien/Kanban_SC
+
+[submodule "projects/Auth"]
+	path = projects/auth
+	url = https://github.com/DracJulien/Auth
