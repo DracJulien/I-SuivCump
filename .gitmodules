@@ -1,0 +1,3 @@
+[submodule "projects/Kanban"]
+	path = projects/Kanban
+	url = https://github.com/DracJulien/kanban-board
